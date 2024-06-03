@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unlock the Secrets to Wealth</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 0 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #007bff;
+        }
+        .cta-button {
+            display: inline-block;
+            background: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background: #0056b3;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        input[type="email"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .submit-button {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background: #007bff;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .submit-button:hover {
+            background: #0056b3;
+        }
+        .testimonial {
+            background: #f9f9f9;
+            padding: 10px;
+            border-left: 5px solid #007bff;
+            margin-bottom: 15px;
+        }
+        .privacy {
+            font-size: 12px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Unlock the Secrets to Wealth: Exclusive Research Exposed by NYC Neuroscientist</h1>
+        <h2>Discover the Hidden Techniques the Wealthy Use to Manifest Riches – Before They’re Silenced Forever</h2>
+        <p>For years, a top NYC neuroscientist remained silent about a powerful discovery. Now, breaking his vow of silence, he reveals leaked CIA research that holds the key to unlocking unimaginable wealth.</p>
+        <p>Leaked CIA Research Reveals
+Brain Wave Ritual Attracts Money To You...</p>
+        <p>"Dr. Summers' breakthrough confirms our teachings dating back to 800 B.C." - Jin Ling, Buddhist Monk, Zendar Monastery</p>
+        <p>A whistleblowing neuroscientist has discovered a new way to make more money start appearing in your life as soon as today...
+Find out how 18</p>
+        <div class="testimonial">
+            <p>"After following these techniques, I saw a dramatic increase in my income within just a few weeks. It’s truly life-changing!" – John D., NYC</p>
+        </div>
+        <div class="testimonial">
+            <p>"I was skeptical at first, but the results speak for themselves. This research is a game-changer for anyone looking to improve their financial situation." – Sarah L., California</p>
+        </div>
+        <a href="#form" class="cta-button">Don't Miss Out! Reserve Your Spot Now!</a>
+        <h2>Unlock Your Wealth Potential Today!</h2>
+        <form id="form">
+            <div class="form-group">
+                <input type="email" placeholder="Enter your email" required>
+            </div>
+            <button type="submit" class="submit-button">Get Instant Access</button>
+        </form>
+        <p class="privacy">We value your privacy. Your information will never be shared or sold. By signing up, you agree to receive our promotional emails. You can unsubscribe at any time.</p>
+    </div>
+</body>
+</html>
